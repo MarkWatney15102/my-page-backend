@@ -1,0 +1,14 @@
+{
+    "name": "eike/backend",
+    "authors": [
+        {
+            "name": "Eike Wientjes",
+            "email": "contact@eikewientjes.de"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.7",
+        "ext-json": "*",
+        "ext-PDO": "*"
+    }
+}
